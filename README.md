@@ -11,4 +11,4 @@ The easiset way to run it is to clone and import the whole repository into Eclip
 
 ## Screenshot
 
-<img src="https://github.com/andywu0913/Whack-a-Paul/blob/master/demo.png" width="50%">
+<img src="https://github.com/andywu0913/Whack-a-Paul/blob/master/demo.png" width="350px">
