@@ -9,4 +9,4 @@ A group project for sophomore Java course.
 
 The easiset way to run it is to clone and import the whole repository into Eclipse.
 
-![](https://github.com/andywu0913/Whack-a-Paul/blob/master/demo.png =250x250)
+![](https://github.com/andywu0913/Whack-a-Paul/blob/master/demo.png)
